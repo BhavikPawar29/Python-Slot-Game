@@ -27,7 +27,7 @@ This project implements a simple yet engaging slot machine game where players ca
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/BhavikPawar29/HP-Challenge.git
+    git clone https://github.com/BhavikPawar29/Python-Slot-Game.git
     cd Unlocked_Challenge_4
     ```
 
